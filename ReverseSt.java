@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reverse {
+public class ReverseSt {
 	public static void main(String arg[])
 	{
 		Scanner sc=new Scanner(System.in);
